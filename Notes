@@ -1,0 +1,11 @@
+npm : Is a software registry that contains >800k code packages , it comes with node.js
+To install any package do npm install
+
+Here we are creating package.json file
+npm init , it will ask few question and will create a package.json file
+you can create custom npm run script in scripts section in package.json , to run script type : npm run <script_name>
+
+
+to use .env install it .
+
+we ignored node_modules we will install the dependecies using npm install 
